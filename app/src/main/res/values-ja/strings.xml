@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Viewer Sample</string>
+    <string name="action_settings">Setting</string>
+    <string name="label_tag_setting">タグ管理</string>
+    <string name="label_home">ホーム</string>
+    <string name="label_caption">キャプション</string>
+    <string name="label_comment">コメント</string>
+    <string name="label_add">追加</string>
+    <string name="label_cancel">キャンセル</string>
+    <string name="label_delete">削除</string>
+    <string name="label_error">エラー</string>
+    <string name="msg_input_tag_title">タグキーワードを入力</string>
+    <string name="msg_confirm_delete">削除しますか？</string>
+    <string name="msg_network_error">ネットワークが利用できません。</string>
+    <string name="api_endpoint">https://api.instagram.com/v1</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Viewer Sample</string>
+    <string name="action_settings">Setting</string>
+    <string name="label_tag_setting">Tag Setting</string>
+    <string name="label_home">Home</string>
+    <string name="label_caption">Caption</string>
+    <string name="label_comment">Comment</string>
+    <string name="label_add">Add</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_delete">Delete</string>
+    <string name="label_error">Error</string>
+    <string name="msg_input_tag_title">Input tag title</string>
+    <string name="msg_confirm_delete">Tag will be delete</string>
+    <string name="msg_network_error">Network is not available</string>
+    <string name="api_endpoint">https://api.instagram.com/v1</string>
+</resources>

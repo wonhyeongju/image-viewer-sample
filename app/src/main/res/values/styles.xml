@@ -1,0 +1,13 @@
+<resources>
+    <style name="AppTheme" parent="Base.AppTheme"/>
+    <style name="Base.AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/md_green_500</item>
+        <item name="colorPrimaryDark">@color/md_green_900</item>
+        <item name="colorAccent">@color/md_purple_300</item>
+        <item name="android:textColorPrimary">@color/md_white_1000</item>
+        <item name="android:textColorPrimaryInverse">@color/md_black_1000</item>
+        <item name="android:textColorSecondary">@color/md_grey_500</item>
+        <item name="android:windowBackground">@color/md_lime_100</item>
+        <item name="android:actionMenuTextColor">@color/md_grey_800</item>
+    </style>
+</resources>
